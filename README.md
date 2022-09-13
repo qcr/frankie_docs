@@ -4,6 +4,9 @@ Frankie is a mobile manipulator developed by the [QUT Centre for Robotics](https
 
 <img src="images/Frankie.jpg"  width=50% height=50%>
 
+## Control
+ROS control of the Panda manipulator is provided by the [Panda version](https://github.com/qcr/armer_panda) of the [Armer Driver](https://github.com/qcr/armer), and control of the mobile base is provided by the [OMRON ROS Robot Driver](https://github.com/qcr/ros_omron_agv). 
+
 ## Simulation
 Frankie is available in the [Robotics Toolbox for Python](https://github.com/petercorke/robotics-toolbox-python) and the accompanying [Swift](https://github.com/jhavl/swift) simulation environment.
 
